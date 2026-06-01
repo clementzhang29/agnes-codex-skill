@@ -1,0 +1,7 @@
+outputs/
+*.log
+*.tmp
+.env
+.env.*
+__pycache__/
+*.pyc
