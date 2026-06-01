@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agnes"
+  short_description: "Generate images and videos through the Agnes API."
+  default_prompt: "Use $agnes to generate an image or video with the Agnes API."
